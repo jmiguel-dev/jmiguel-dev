@@ -1,7 +1,13 @@
 ## Olá, eu sou João Miguel, estudante de programação e desenvolvedor Backend!
 
-(https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=jmiguel-dev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="jmiguel github stats" /></a>
+</p>
+
+
+<!----------------------------->
 <div style="display: inline_block"><br>
   <img align="center" alt="Jm-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
