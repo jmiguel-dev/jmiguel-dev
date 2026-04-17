@@ -8,11 +8,8 @@
 
 
 <!----------------------------->
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jm-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  
-  <img align="center" alt="Jm-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-          
+<div style="display:inline-block; width:100% "  >
+  <img align="center" alt="Jm-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
 </div>
   
   ##
