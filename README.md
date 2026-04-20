@@ -1,20 +1,22 @@
-## Olá, eu sou João Miguel, estudante de programação e desenvolvedor Backend!
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api?username=jmiguel-dev&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=onedark" alt="jmiguel github stats" /></a>
-</p>
+#  João Miguel Brandão
+
+**`Software Engineer`**
+
+Backend Developer
 
 
-<!----------------------------->
-<div style="display:inline-block; width:100% "  >
-  <img align="center" alt="Jm-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />     
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-miguel-brand%C3%A3o-1856613ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+---
+
+###  Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="PostgresSQl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<br />
+
